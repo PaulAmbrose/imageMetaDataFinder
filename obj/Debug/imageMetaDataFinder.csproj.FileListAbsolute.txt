@@ -1,0 +1,11 @@
+C:\Users\PAmbrose\source\repos\imageMetaDataFinder\obj\Debug\imageMetaDataFinder.csproj.AssemblyReference.cache
+C:\Users\PAmbrose\source\repos\imageMetaDataFinder\obj\Debug\imageMetaDataFinder.csproj.CoreCompileInputs.cache
+C:\Users\PAmbrose\source\repos\imageMetaDataFinder\bin\Debug\imageMetaDataFinder.exe.config
+C:\Users\PAmbrose\source\repos\imageMetaDataFinder\bin\Debug\imageMetaDataFinder.exe
+C:\Users\PAmbrose\source\repos\imageMetaDataFinder\bin\Debug\imageMetaDataFinder.pdb
+C:\Users\PAmbrose\source\repos\imageMetaDataFinder\bin\Debug\System.Drawing.Common.dll
+C:\Users\PAmbrose\source\repos\imageMetaDataFinder\bin\Debug\System.Drawing.Common.pdb
+C:\Users\PAmbrose\source\repos\imageMetaDataFinder\bin\Debug\System.Drawing.Common.xml
+C:\Users\PAmbrose\source\repos\imageMetaDataFinder\obj\Debug\imageMetaDataFinder.csproj.CopyComplete
+C:\Users\PAmbrose\source\repos\imageMetaDataFinder\obj\Debug\imageMetaDataFinder.exe
+C:\Users\PAmbrose\source\repos\imageMetaDataFinder\obj\Debug\imageMetaDataFinder.pdb
